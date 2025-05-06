@@ -1,4 +1,4 @@
-# Coming Soon
+# Reviews
 
 _website design project_
 
@@ -8,9 +8,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://ketleriuslinas.github.io/55-grupe-coming-soon/
+Site published at: https://ketleriuslinas.github.io/html-css-Reviews/
 
-Design: ![alt text](./project-design.png)
+Design: ![alt text](./original-design.jpg)
 
 ## 🎯 Project features/goals
 
@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://ketleriuslinas.github.io/55-grupe-coming-soon/
+    git clone https://ketleriuslinas.github.io/html-css-Reviews/
     ```
 2. Install NPM packages
     ```sh
