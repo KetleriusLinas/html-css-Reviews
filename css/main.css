@@ -1,12 +1,28 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- }
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: #D8E2C9;
 
- body {
-    background: url('/img/background.webp') no-repeat center center fixed;
-    background-size: cover;
+}
+
+/* body { */
+/* background: url('/img/background.webp') no-repeat center center fixed; */
+/* background-color: pink; */
+/* background-size: border-box;
     height: 100vh;
- }
+ } */
+
+.container {
+   background-color: #F7F8EA;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+}
+.row  {
+   display: flex;
+   justify-content: space-between;
+   /* width: 100%; */
+}
